@@ -1,0 +1,3 @@
+CSS Browser Support:
+    1. Check Mdn every css property has it if you scroll all the way down
+    2. Can I use.(website) for checking CSS property support
